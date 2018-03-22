@@ -25,6 +25,7 @@ public class FlightNode {
 	 */
 	public FlightNode(FlightKey key, FlightData data) {
 		// FILL IN CODE
+
 	}
 
 	// FILL IN CODE: write getters and setters for all private variables

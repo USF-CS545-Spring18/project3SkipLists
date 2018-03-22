@@ -87,7 +87,7 @@ public class FlightList {
 
 	/**
 	 * Outputs the SkipList to a file
-	 *(prints the elements on all levels starting at the top.
+	 * (prints the elements on all levels starting at the top.
 	 * Each level should be printed on a separate line.
 	 * @param filename the name of the file
 	 */
