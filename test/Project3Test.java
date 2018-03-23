@@ -113,7 +113,7 @@ public class Project3Test {
             ArrayList<FlightNode> results;
             FlightNode[] expectedResult;
 
-            results = list.predecessors(key, 10); // 10 hour time frame
+            results = list.predecessors(key, 15); // 15 hour time frame
             expectedResult = expectedPredecessors.get(i);
 
             if (expectedResult.length != results.size()) {
